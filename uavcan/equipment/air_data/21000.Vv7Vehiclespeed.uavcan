@@ -1,0 +1,5 @@
+#
+# IAS.
+#
+uint8 vv7_reserved
+uint16 vv7_vehiclespd             # km/h
