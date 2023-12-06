@@ -1,0 +1,7 @@
+#
+# IAS.
+#
+uint8 status
+uint16 vv7_brakepress
+uint16 vv7_enginespd
+uint8 gear

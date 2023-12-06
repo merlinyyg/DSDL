@@ -1,0 +1,6 @@
+#
+# IAS.
+#
+uint8 reserved
+uint16 vv7_reserved
+uint16 vv7_steeringangle             # deg
